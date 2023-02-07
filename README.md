@@ -5,6 +5,15 @@
 </head>
 <body>
 <img src="https://wallpapers.com/images/high/spider-man-cool-m58a9ligeu0yrgnh.webp" width="1000" height="500"/>
+  <audio controls autoplay muted>
+
+  <source src="https://open.spotify.com/embed/album/04NKJp5REYxjBzQdNAbByt?utm_source=generator" type="audio/ogg">
+
+  <source src="https://open.spotify.com/embed/album/04NKJp5REYxjBzQdNAbByt?utm_source=generator" type="audio/mpeg">
+
+Your browser does not support the audio element.
+
+</audio>
 <h1 align="center">Hi 👋, I'm Praveen MT</h1>
 <h3 align="center">Reverser and dev</h3>
 
