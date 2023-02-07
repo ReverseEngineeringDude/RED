@@ -5,6 +5,43 @@
 </head>
 <body>
 <img src="https://wallpapers.com/images/high/spider-man-cool-m58a9ligeu0yrgnh.webp" width="1000" height="500"/>
+  <audio controls id="music">
+
+<source src="[mj.mp3](https://open.spotify.com/embed/album/04NKJp5REYxjBzQdNAbByt?utm_source=generator)" type="audio/mpeg">
+
+Your browser does not support the audio element.
+
+</audio>
+
+ 
+
+<p>Click the buttons to play or pause the music.</p>
+
+ 
+
+<button onclick="play()" type="button">Play </button>
+
+<button onclick="pause()" type="button">Pause</button>
+
+ 
+
+<script>
+
+var myMusic= document.getElementById("music");
+
+function play() {
+
+myMusic.play();
+
+}
+
+ 
+
+function pause() {
+
+myMusic.pause();
+
+}
 <h1 align="center">Hi 👋, I'm Praveen MT</h1>
 <h3 align="center">Reverser and dev</h3>
 
