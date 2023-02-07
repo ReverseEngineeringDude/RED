@@ -4,7 +4,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
- <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
 <img src="https://wallpapers.com/images/high/spider-man-cool-m58a9ligeu0yrgnh.webp" width="1000" height="500"/>
 <h1 align="center">Hi 👋, I'm Praveen MT</h1>
 <h3 align="center">Reverser and dev</h3>
