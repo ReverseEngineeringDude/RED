@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/04NKJp5REYxjBzQdNAbByt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/04NKJp5REYxjBzQdNAbByt?utm_source=generator" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://wallpapers.com/images/high/spider-man-cool-m58a9ligeu0yrgnh.webp" width="1000" height="500"/>
 <h1 align="center">Hi 👋, I'm Praveen MT</h1>
 <h3 align="center">Reverser and dev</h3>
