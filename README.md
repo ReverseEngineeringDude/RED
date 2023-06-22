@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **APP DEV**
 
-- 💬 Ask me about **python, javascript**
+- 💬 Ask me about **python, javascript , c , html , css , java**
 
 - 📫 How to reach me **praveenmtdarker@gmail.com**
 
