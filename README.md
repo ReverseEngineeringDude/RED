@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://t.me/darker_m_t**
 
-- ⚡ Fun fact **idk who am i**
+- ⚡ Fun fact **My favorite superhero is Spiderman, but I'm afraid of spiders 😂🙌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
