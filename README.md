@@ -5,7 +5,9 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<img class="img" src="https://i.imgur.com/ETtj5Ma.jpeg" alt="Avatar">
+  <div align=center>
+<img class="img" src="https://avatars.githubusercontent.com/u/70425782?v=4" alt="Avatar">
+  </div>
 <h1 align="center">Hi 👋, I'm Praveen MT</h1>
 <h3 align="center">Reverser and dev</h3>
 
@@ -15,7 +17,7 @@
 
 - 💬 Ask me about **reverse engineering**
 
-- 📫 How to reach me **https://t.me/darker_m_t**
+- 📫 How to reach me **https://t.me/reverseengineeringdude**
 
 - ⚡ Fun fact **My favorite superhero is Spiderman, but I'm afraid of spiders 😂🙌**
 
