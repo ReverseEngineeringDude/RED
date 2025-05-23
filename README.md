@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **my privet works**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **reverse engineering**
 
