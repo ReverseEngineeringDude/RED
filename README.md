@@ -2,8 +2,8 @@
 
 <img src="https://avatars.githubusercontent.com/u/70425782?v=4" width="160" style="border-radius:50%; box-shadow: 0 0 20px rgba(0,255,255,0.4);" />
 
-<h1>Hey 👋, I'm <span style="color:#00FFFF;">Praveen MT</span></h1>
-<h3>🔐 Reverse Engineer | 💻 Developer | ⚡ Tech Explorer</h3>
+<h1>Hey, I'm <span style="color:#00FFFF;">Praveen MT</span></h1>
+<h3> Reverse Engineer | Developer | Tech Explorer</h3>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Breaking+Code+to+Understand+It;Building+Things+That+Matter;Learning+Every+Single+Day" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 <p align="center">
   <a href="https://x.com/redbytesec" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -62,7 +62,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reverseengineeringdude&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reverseengineeringdude&theme=radical" alt="streak" />
@@ -71,7 +71,7 @@
 
 ---
 
-### 🌌 Featured Projects
+###  Featured Projects
 <p align="center">
   <a href="https://github.com/ReverseEngineeringDude/Blind-assist">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=Blind-assist&theme=radical" />
