@@ -4,9 +4,10 @@ import re
 # 🎂 Replace with your real birthdate
 BIRTH_YEAR = 2004
 BIRTH_MONTH = 12
-BIRTH_DAY = 03
+BIRTH_DAY = 3
 
 today = date.today()
+# Adjust age if birthday hasn't occurred yet this year
 age = today.year - BIRTH_YEAR - ((today.month, today.day) < (BIRTH_MONTH, BIRTH_DAY))
 
 # Read README
