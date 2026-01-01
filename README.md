@@ -66,26 +66,20 @@
 </p>
 
 ---
+### 📌 Featured Projects  
 
-### 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/ReverseEngineeringDude/Blind-assist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=Blind-assist&theme=radical" />
-  </a>
-  <a href="https://github.com/ReverseEngineeringDude/bloodbank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=bloodbank&theme=radical" />
-  </a>
-  <a href="https://github.com/ReverseEngineeringDude/Nextify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=Nextify&theme=radical" />
-  </a>
-  <a href="https://github.com/ReverseEngineeringDude/Akinator_Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=Akinator_Bot&theme=radical" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-   <h3>✨ And more — check out my profile!</h3>
-</p>
+| Project | Logo | Links |
+|---------|------|-------|
+| **Blind Assist** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/Blind-assist/main/assets/img/logo.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/Blind-assist.git) |
+| **WireFlow Android App** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/WireFlow/main/assets/icon.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/WireFlow.git) |
+| **WireFlow Web** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/WireFlow/main/assets/icon.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/WireFlowWeb.git) <br> 🌐 [Live Demo](https://reverseengineeringdude.github.io/WireFlowWeb/) |
+| **Techmage Android App** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/ThechMage/main/assets/images/logo.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/ThechMage.git) |
+| **Late Pass** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/LatePass/main/assets/logo_no_bg.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/LatePass.git) |
+| **DataStructure** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/DataStructure/main/icons/Icon-192.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/DataStructure.git) <br> 🌐 [Live Demo](https://reverseengineeringdude.github.io/DataStructure/) |
+
+</div>
 
 ---
 
