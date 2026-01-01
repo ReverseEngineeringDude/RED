@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/70425782?v=4" width="160" style="border-radius:50%; box-shadow: 0 0 20px rgba(0,255,255,0.4);" />
+  <img src="https://avatars.githubusercontent.com/u/70425782?v=4" width="160" style="border-radius:50%; box-shadow: 0 0 20px rgba(0,255,255,0.4);" />
 
-<h1>Hey, I'm <span style="color:#00FFFF;">Praveen MT</span></h1>
-<h3> Reverse Engineer | Developer | Tech Explorer</h3>
+  <h1>Hey, I'm <span style="color:#00FFFF;">Praveen MT</span></h1>
+  <h3>Reverse Engineer | Developer | Tech Explorer</h3>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Breaking+Code+to+Understand+It;Building+Things+That+Matter;Learning+Every+Single+Day" alt="Typing SVG" />
-</p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Breaking+Code+to+Understand+It;Building+Things+That+Matter;Learning+Every+Single+Day" alt="Typing SVG" />
+  </p>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ---
 
-###  Connect With Me
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://x.com/redbytesec" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
@@ -37,16 +37,14 @@
   <a href="https://www.youtube.com/@ReverseEngineeringDude" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
- <a href="https://www.linkedin.com/in/redbytesec" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
+  <a href="https://www.linkedin.com/in/redbytesec" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
 
 ---
 
-###  Tech Stack
+### 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -62,16 +60,14 @@
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reverseengineeringdude&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=ReverseEngineeringDude&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ReverseEngineeringDude&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReverseEngineeringDude&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
 
-###  Featured Projects
+### 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/ReverseEngineeringDude/Blind-assist">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=Blind-assist&theme=radical" />
@@ -79,11 +75,11 @@
   <a href="https://github.com/ReverseEngineeringDude/bloodbank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=bloodbank&theme=radical" />
   </a>
-  <a href="https://reverseengineeringdude.github.io/Nextify">
+  <a href="https://github.com/ReverseEngineeringDude/Nextify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=Nextify&theme=radical" />
   </a>
   <a href="https://github.com/ReverseEngineeringDude/Akinator_Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=Akinator_bot&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReverseEngineeringDude&repo=Akinator_Bot&theme=radical" />
   </a>
 </p>
 
@@ -94,5 +90,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reverseengineeringdude&label=Profile%20views&color=blue&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=ReverseEngineeringDude&label=Profile%20views&color=blue&style=flat" alt="views" />
 </p>
