@@ -75,7 +75,7 @@
 | **Blind Assist** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/Blind-assist/main/assets/img/logo.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/Blind-assist.git) |
 | **WireFlow Android App** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/WireFlow/main/assets/icon.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/WireFlow.git) |
 | **WireFlow Web** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/WireFlow/main/assets/icon.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/WireFlowWeb.git) <br> 🌐 [Live Demo](https://reverseengineeringdude.github.io/WireFlowWeb/) |
-| **Techmage Android App** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/ThechMage/main/assets/images/logo.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/ThechMage.git) |
+| **Techmage Android App** | <img src="https://techmage.in/o/r/app/117/files/static/v174/icons/app-icon-512.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/ThechMage.git) |
 | **Late Pass** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/LatePass/main/assets/logo_no_bg.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/LatePass.git) |
 | **DataStructure** | <img src="https://raw.githubusercontent.com/ReverseEngineeringDude/DataStructure/main/icons/Icon-192.png" width="80"/> | [GitHub Repo](https://github.com/ReverseEngineeringDude/DataStructure.git) <br> 🌐 [Live Demo](https://reverseengineeringdude.github.io/DataStructure/) |
 
